@@ -38,7 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (= 4.2.6)
-  pg
+  pg (~> 0.17.1)
   pry
 
 BUNDLED WITH
